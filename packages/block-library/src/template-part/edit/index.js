@@ -4,7 +4,6 @@
 import { useRef, useEffect } from '@wordpress/element';
 import { useSelect, useDispatch } from '@wordpress/data';
 import { BlockControls } from '@wordpress/block-editor';
-import { sprintf } from '@wordpress/i18n';
 
 /**
  * Internal dependencies
